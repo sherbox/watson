@@ -12,6 +12,6 @@ cd watson
 
 ## Hall of Fame
 
-*tumbleweeds*
+1. [Evan](https://github.com/evan3334)
 
 ## [chat](https://hack.chat/?sherbox)
