@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-sudo apt install git gnupg
+sudo apt install git gnupg python
 
 git clone https://github.com/sherbox/watson
 
